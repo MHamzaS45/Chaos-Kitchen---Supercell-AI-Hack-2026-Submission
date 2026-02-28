@@ -1,6 +1,9 @@
 # Chaos-Kitchen---Supercell-AI-Hack-2026-Submission
 My submission for the Supercell 2026 AI hack competition
 
+You can play it [here](https://rosebud.ai/p/chefs-chaos-kitchen)
+
+
 ## 💻 Tech Stack and Tools
 HTML, JS;three.js
 
